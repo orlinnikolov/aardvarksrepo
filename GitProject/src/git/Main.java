@@ -1,5 +1,13 @@
 package git;
 
+/**
+ * 
+ * <p></p>
+ *
+ * @author Orlin Nikolov
+ * @since Dec 17, 2012 10:46:35 AM
+ *
+ */
 public class Main {
 
 	/**
