@@ -17,5 +17,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("gogo");
 	}
+	
+	private static void test(){
+		//nothing
+	}
 
 }
