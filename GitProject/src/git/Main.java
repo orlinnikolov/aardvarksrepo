@@ -20,6 +20,7 @@ public class Main {
 	
 	private static void test(){
 		//nothing master
+		//nothing dev
 	}
 
 }
